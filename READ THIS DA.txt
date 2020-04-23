@@ -1,0 +1,7 @@
+first download and setup gpt-2 [refer other projects]
+then get requirments for AQG including textblob
+note: remember to install everything it asks along with "python3 -m spacy download en_core_web_md"
+for spacy
+then move and run leoq from src as i "python3 src/leoq.py
+there give some base data to start the process 
+we can also refer this to a file such as book [go and code]
